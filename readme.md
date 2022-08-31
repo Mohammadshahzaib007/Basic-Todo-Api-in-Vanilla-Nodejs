@@ -6,8 +6,12 @@ Use nodemon / nodejs to start the server.
 
 There are three methods only
 
+```
+#Routes
+
 GET `/todos` - To get the all todos
 
 POST `/todos?title=Learn nodejs&completed=false` - To create a new todo item.
 
 DELETE `/todos?id=6` - To delete the todo item.
+```
