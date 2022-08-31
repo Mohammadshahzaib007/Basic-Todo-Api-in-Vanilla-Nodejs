@@ -15,3 +15,5 @@ POST `/todos?title=Learn nodejs&completed=false` - To create a new todo item.
 
 DELETE `/todos?id=6` - To delete the todo item.
 ```
+
+The data is being stored in the `data.json` file
